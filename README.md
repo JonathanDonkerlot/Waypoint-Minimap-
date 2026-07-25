@@ -8,6 +8,6 @@ Multiple optimisation changes<br>
 
 <p align="center">
   <a href="https://github.com/JonathanDonkerlot/Superpooper/releases">
-    <img src="https://img.shields.io/github/downloads/JonathanDonkerlot/Superpooper/total?style=for-the-badge&logo=github&color=7fff6e">
+    <img src="https://img.shields.io/github/downloads/JonathanDonkerlot/Waypoint-Minimap-/total?style=for-the-badge&logo=github&color=7fff6e">
   </a>
 </p>
