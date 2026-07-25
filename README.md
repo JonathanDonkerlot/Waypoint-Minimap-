@@ -6,8 +6,6 @@ Waypoints visible through walls (UI)<br>
 More minimap info<br>
 Multiple optimisation changes<br>
 
-<p align="center">
-  <a href="https://github.com/JonathanDonkerlot/Superpooper/releases">
+<p>
     <img src="https://img.shields.io/github/downloads/JonathanDonkerlot/Waypoint-Minimap-/total?style=for-the-badge&logo=github&color=7fff6e">
-  </a>
 </p>
